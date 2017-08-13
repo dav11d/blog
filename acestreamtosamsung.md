@@ -19,7 +19,7 @@ The basic idea is that you will use Ace Player on your computer to capture the s
 
 At the end of this tutorial you may be tempted to try and run Acestream through Plex in your browser before trying it on your T.V. *Be aware* your browser will not run it! So before you think it is not working, try it on your T.V first!
 
-# What you are going to need
+# Requirements
 
 - Acestream
 - Plex for your computer & Samsung Smart TV.
